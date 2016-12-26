@@ -1,4 +1,4 @@
-# Colmena CMS - Developers Guide
+# ![](/assets/colmena-logo-full.png)
 
 
 
