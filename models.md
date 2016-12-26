@@ -8,7 +8,7 @@ The models are divided in 2 types, system and content models.
 
 ### Domain
 
-The Domain model represents a logical domain of data. It does not need to be an internet domain name, but it might well be related to the domain that is being managed. 
+The Domain model represents a logical domain of data. It does not need to be an internet domain name, but it might well be related to the domain that is being managed.
 
 All the content models are related to one of the domains
 
@@ -24,7 +24,7 @@ All the content models are related to one of the domains
 
 ## 
 
-##  
+## 
 
 
 
