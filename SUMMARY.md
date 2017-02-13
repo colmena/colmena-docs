@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * Admin
-    * [Modules](modules.md)
-        * @colmena\/colmena-angular-ui
-        * @colmena\/colmena-angular-layout
-        * @colmena\/colmena-angular-auth
+  * [Modules](modules.md)
+    * [@colmena\/colmena-angular-ui](modules/@colmenacolmena-angular-ui.md)
+    * [@colmena\/colmena-angular-layout](modules/@colmenacolmena-angular-layout.md)
+    * [@colmena\/colmena-angular-auth](modules/@colmenacolmena-angular-auth.md)
 * [API](api.md)
-    * [Models](models.md)
+  * [Models](models.md)
 
